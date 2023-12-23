@@ -1,4 +1,5 @@
-import payMent from '../chapter1/showPayment';
+import payMent from '../idx/chapter1/Statement';
+
 test('함수작동테스트', () =>{
   //given
   const invoicesJson =
